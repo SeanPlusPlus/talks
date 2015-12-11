@@ -16,7 +16,7 @@ I wanted to be a lawyer.
 
 ### SF City College
 
-Much to my parents' dismay, instead of going to law school, I signed up for intro to computer science at San Francisco City College.
+Much to my parents' dismay, instead of going to law school, I signed up for intro to computer science at San Francisco City College. 
 
 ### Brown Bag Web Design
 
