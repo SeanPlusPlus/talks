@@ -1,4 +1,4 @@
-# Techhive
+# My Technical Story
 
 My path to Pixar, and technology in general, was circuitous.
 
