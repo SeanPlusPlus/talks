@@ -16,11 +16,15 @@ I wanted to be a lawyer.
 
 ### SF City College
 
-Much to my parents' dismay, instead of going to law school, I signed up for intro to computer science at San Francisco City College. 
+Much to my parents' dismay, instead of going to law school, I signed up for computer science at San Francisco City College.
 
 ### Brown Bag Web Design
 
 My first taste of an all night spent hacking.
+
+Eastwood Development, John Campbell's ...
+
+I was interviewing like crazy, hungry to get a job at a tech company, and see if this really was the right choice for me.
 
 ### Pixar Systems
 
