@@ -16,7 +16,7 @@ I wanted to be a lawyer.
 
 ### SF City College
 
-Much to my parents' dismay, I went community college instead of law school.
+Much to my parents' dismay, instead of going to law school, I signed up for intro to computer science at San Francisco City College.
 
 ### Brown Bag Web Design
 
@@ -28,6 +28,20 @@ Queue our video ...
 
 ### Current Tech Projects
 
-Notesar.
+Unix desktop administration.
+
+Heartbeat.
+
+Web dev team.
 
 Translations.
+
+Notesar.
+
+### Advice
+
+Constantly prototype.
+
+Read as much as you can.
+
+Integrity is the most trait in a software developer.
