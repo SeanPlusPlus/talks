@@ -2,7 +2,7 @@
 
 My path to Pixar, and technology in general, was circuitous.
 
-I wasn't that iconic child taking apart the family toaster, and wiring it up to the Internet. I didn't code, and I wasn't a math wiz.
+I wasn't that iconic child taking apart the family toaster, and wiring it up to the Internet. I didn't code, and I wasn't a math wiz. Between school government and the newspaper, I'm pretty sure that anyone who knew me back in high school would have pegged me as a future politician or journalist.
 
 ### UC Santa Cruz
 
