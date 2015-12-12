@@ -1,5 +1,7 @@
 # My Technical Story
 
+![crawling_around](imgs/crawling_around.jpg)
+
 My path to Pixar, and technology in general, was circuitous. And on this journey I learned a valuable lesson: my past did not control my future.
 
 I wasn't that iconic child taking apart the family toaster, and wiring it up to the Internet. I didn't code, and I wasn't a math wiz. Between school government and the newspaper, I'm pretty sure that anyone who knew me back in high school would have pegged me as a future politician or journalist.
@@ -13,6 +15,8 @@ In college, while attending UC Santa Cruz, my interests were centered almost exc
 
 ### Peace Corps Ukraine
 
+![ukraine](imgs/ukraine.png)
+
 I graduated college eager to make an impact, in search of adventure, and wanting to see more of the world. The Peace Corps seemed like a great opportunity to check all three of those boxes, so I signed up, and promptly shipped off. They placed me as an English teacher in Eastern Ukraine, and I spent over two years in a small village on the Russian border. Being from Southern California, winter had been a totally foreign concept to me.
 
 Needless to say, my first winter in Ukraine was brutal. It was cold. No joke, it was extremely cold. I had to boil water in a tea kettle in order to wash my clothes by hand. I'd seal off the door to my bedroom, point my space heater to my little couch in the family room, and hunker down for several months.
@@ -22,6 +26,8 @@ But the opportunity to learn Russian, work with a phenomenal group of kids at ou
 Technology, like a warm southern California summer, was still very far away.
 
 ### Law Firm
+
+![law_firm](imgs/law_firm.png)
 
 After serving abroad for two years, I came back home, and decided that it was time to apply for law school. My big brother had just become a lawyer, and my parents were very keen on the idea of having both their children in the profession.
 
@@ -45,7 +51,7 @@ Just as I was beginning to obsess over this whole software thing, I was accepted
 
 My friends and family all assumed that I was going to be a lawyer. The inevitability of it was immense. But all I could think about was my next snippet of code to move files around.
 
-So, in the Spring of 2007, I declined the law school acceptance letters, and enrolled in Intro to Computer Science at San Francisco City College. Everyone I knew was shocked.
+So, in the Spring of 2007, I declined the law school acceptance letters, and enrolled in Intro to Computer Science at San Francisco City College. Everyone I knew was shocked. I think that my parents were even panicking a little bit.
 
 ### Brown Bag Web Design
 
