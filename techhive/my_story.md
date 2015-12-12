@@ -19,15 +19,25 @@ Needless to say, my first winter in Ukraine was brutal. It was cold. No joke, it
 
 But the opportunity to learn Russian, work with a phenomenal group of kids at our little school, and experience a life that was totally different from anything I'd ever lived, made it truly worth it.
 
+Technology, like a warm southern California summer, was still very far away.
+
 ### Law Firm
 
 After serving abroad for two years, I came back home, and decided that it was time to apply for law school. My big brother had just become a lawyer, and my parents were very keen on the idea of having both their children in the profession.
 
 While applying I got a job as a case clerk at a law firm in downtown San Francisco. It was perfect. It was all part of the plan. Spend a year seeing the inside of a firm, learning about the machinations of law, and then head off to the green pastures of law school.
 
+Then reality hit.
+
 A typical task for me at the firm would go something like this: I'd be given five boxes of documents, each box full of printed out emails. And in each box, dozens of emails would be flagged with post-its. I'd have to pull those emails out, copy each twice, put them back in the box, and then sort out the copied sets into binders.
 
-I couldn't stand it.
+It was tedious. It was brutal.
+
+A light bulb slowly started to brighten inside my head while going through these mountains of boxes of documents. I began to wonder what if a computer could do this? If all of these thousands of emails were written on computers, what if I could somehow get that data back in to some sort of application that could print them back out to me in whatever order I wanted.
+
+And that's where my technical journey began.
+
+With help from the firm's in house litigation tech lead, I wrote my first script. 
 
 ### SF City College
 
