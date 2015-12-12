@@ -25,6 +25,9 @@ After serving abroad for two years, I came back home, and decided that it was ti
 
 While applying I got a job as a case clerk at a law firm in downtown San Francisco. It was perfect. It was all part of the plan. Spend a year seeing the inside of a firm, learning about the machinations of law, and then head off to the green pastures of law school.
 
+A typical task for me at the firm would go something like this: I'd be given five boxes of documents, each box full of printed out emails. And in each box, dozens of emails would be flagged with post-its. I'd have to pull those emails out, copy each twice, put them back in the box, and then sort out the copied sets into binders.
+
+I couldn't stand it.
 
 ### SF City College
 
