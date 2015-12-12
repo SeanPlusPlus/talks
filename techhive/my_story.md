@@ -6,7 +6,7 @@ I wasn't that iconic child taking apart the family toaster, and wiring it up to 
 
 ### UC Santa Cruz
 
-![ucsc](https://raw.githubusercontent.com/SeanPlusPlus/talks/master/techhive/imgs/ucsc.jpg)
+![ucsc](imgs/ucsc.png)
 
 In college, while attending UC Santa Cruz, my interests were centered almost exclusively around the humanities and liberal arts. Russian history, journalism, political science, education, economics ... I spent my college years tucked safely in the redwoods, devouring the classics, totally unaware that I would end up working as a software engineer one day. Wifi seemed as if it were cast from a magician's wand, my PC was a source of frustration more often than a source of productivity, and I'm pretty sure I had never seen the words "hello" and "world" written side by side.
 
