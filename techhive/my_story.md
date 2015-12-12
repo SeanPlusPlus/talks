@@ -1,8 +1,6 @@
 # My Technical Story
 
-My path to Pixar, and technology in general, was circuitous.
-
-And on this journey I learned a valuable lesson: my past did not control my future.
+My path to Pixar, and technology in general, was circuitous. And on this journey I learned a valuable lesson: my past did not control my future. 
 
 I wasn't that iconic child taking apart the family toaster, and wiring it up to the Internet. I didn't code, and I wasn't a math wiz. Between school government and the newspaper, I'm pretty sure that anyone who knew me back in high school would have pegged me as a future politician or journalist.
 
