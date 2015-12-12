@@ -47,6 +47,8 @@ I started writing these tiny little scripts to organize scanned files and move t
 
 ### SF City College
 
+![hello_world](imgs/hello_world.png)
+
 Just as I was beginning to obsess over this whole software thing, I was accepted into law school, and was now forced with making the biggest decision of my life.
 
 My friends and family all assumed that I was going to be a lawyer. The inevitability of it was immense. But all I could think about was my next snippet of code to move files around.
