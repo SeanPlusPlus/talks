@@ -6,6 +6,8 @@ I wasn't that iconic child taking apart the family toaster, and wiring it up to 
 
 ### UC Santa Cruz
 
+![ucsc](https://raw.githubusercontent.com/SeanPlusPlus/talks/master/techhive/imgs/ucsc.jpg)
+
 In college, while attending UC Santa Cruz, my interests were centered almost exclusively around the humanities and liberal arts. Russian history, journalism, political science, education, economics ... I spent my college years tucked safely in the redwoods, devouring the classics, totally unaware that I would end up working as a software engineer one day. Wifi seemed as if it were cast from a magician's wand, my PC was a source of frustration more often than a source of productivity, and I'm pretty sure I had never seen the words "hello" and "world" written side by side.
 
 
@@ -43,7 +45,7 @@ Just as I was beginning to obsess over this whole software thing, I was accepted
 
 My friends and family all assumed that I was going to be a lawyer. The inevitability of it was immense. But all I could think about was my next snippet of code to move files around.
 
-So, in the Spring of 2007, I declined the law school acceptance letters, and enrolled in Intro to Computer Science at San Francisco City College. Everyone I knew was shocked. 
+So, in the Spring of 2007, I declined the law school acceptance letters, and enrolled in Intro to Computer Science at San Francisco City College. Everyone I knew was shocked.
 
 ### Brown Bag Web Design
 
