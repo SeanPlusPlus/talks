@@ -11,9 +11,7 @@ In college, while attending UC Santa Cruz, my interests were centered almost exc
 
 ### Peace Corps Ukraine
 
-I graduated college eager to make an impact, in search of adventure, and wanting to see more of the world. The Peace Corps seemed like a great opportunity to check all three of those boxes, so I signed up, and promptly shipped off.
-
-They placed me as an English teacher in Eastern Ukraine, and I spent over two years in a small village on the Russian border. Being from Southern California, winter had been a totally foreign concept to me. Seriously, I don't think that I even owned a jacket growing up.
+I graduated college eager to make an impact, in search of adventure, and wanting to see more of the world. The Peace Corps seemed like a great opportunity to check all three of those boxes, so I signed up, and promptly shipped off. They placed me as an English teacher in Eastern Ukraine, and I spent over two years in a small village on the Russian border. Being from Southern California, winter had been a totally foreign concept to me.
 
 Needless to say, my first winter in Ukraine was brutal. It was cold. No joke, it was extremely cold. I had to boil water in a tea kettle in order to wash my clothes by hand. I'd seal off the door to my bedroom, point my space heater to my little couch in the family room, and hunker down for several months.
 
@@ -35,14 +33,17 @@ It was tedious. It was brutal.
 
 A light bulb slowly started to brighten inside my head while going through these mountains of boxes of documents. I began to wonder what if a computer could do this? If all of these thousands of emails were written on computers, what if I could somehow get that data back in to some sort of application that could print them back out to me in whatever order I wanted.
 
-And that's where my technical journey began.
+And this is where my technical journey begins.
 
-With help from the firm's in house litigation tech lead, I wrote my first script. 
+I started writing these tiny little scripts to organize scanned files and move them between Excel and a database. I'd stay hours after work banging my head on CSV files and parsing date ranges and file naming conventions. Over the course of a few weeks, technology came alive for me. By force of sheer will, I'd decided to no longer view software as magic from the magician's wand, but rather a system of rules that was totally understandable with sufficient work.
 
 ### SF City College
 
-Much to my parents' dismay, instead of going to law school, I signed up for computer science at San Francisco City College.
+Just as I was beginning to obsess over this whole software thing, I was accepted into law school, and was now forced with making the biggest decision of my life.
 
+My friends and family all assumed that I was going to be a lawyer. The inevitability of it was immense. But all I could think about was my next snippet of code to move files around.
+
+So, in the Spring of 2007, I declined the law school acceptance letters, and enrolled in Intro to Computer Science at San Francisco City College. Everyone I knew was shocked. 
 
 ### Brown Bag Web Design
 
