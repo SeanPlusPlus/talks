@@ -1,6 +1,6 @@
 # My Technical Story
 
-My path to Pixar, and technology in general, was circuitous. And on this journey I learned a valuable lesson: my past did not control my future. 
+My path to Pixar, and technology in general, was circuitous. And on this journey I learned a valuable lesson: my past did not control my future.
 
 I wasn't that iconic child taking apart the family toaster, and wiring it up to the Internet. I didn't code, and I wasn't a math wiz. Between school government and the newspaper, I'm pretty sure that anyone who knew me back in high school would have pegged me as a future politician or journalist.
 
@@ -15,10 +15,9 @@ I graduated college eager to make an impact, in search of adventure, and wanting
 
 They placed me as an English teacher in Eastern Ukraine, and I spent over two years in a small village on the Russian border. Being from Southern California, winter had been a totally foreign concept to me. Seriously, I don't think that I even owned a jacket growing up.
 
-Needless to say, my first winter in Ukraine was brutal. I had to boil water in a tea kettle in order to wash my clothes by hand.
+Needless to say, my first winter in Ukraine was brutal. It was cold. No joke, it was extremely cold. I had to boil water in a tea kettle in order to wash my clothes by hand. I'd seal off the door to my bedroom, point my space heater to my little couch in the family room, and hunker down for several months.
 
-You're never by yourself, you're always with yourself.
-
+But the opportunity to learn Russian, work with a phenomenal group of kids at our little school, and experience a life that was totally different from anything I'd ever lived, made it truly worth it.
 
 ### Law Firm
 
