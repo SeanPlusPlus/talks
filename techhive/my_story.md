@@ -63,7 +63,9 @@ The first team I worked on was the Unix desktop administration team. It was a cr
 
 The first app I wrote at Pixar was called Heartbeat. Network problems would cause brutal fallout sometime with all of these massive Linux workstations. So we would have to print out lists of computers that had problems, and the corresponding office locations. It was gnarly. So I hacked together an app that took our office maps, and overlaid colors representing the states that the machines were in.
 
-That app got me on the web dev team, and after resolving 
+That app got me on the web dev team.
+
+Apps I now work on.
 
 Translations.
 
