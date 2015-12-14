@@ -1,21 +1,15 @@
 # My Technical Story
 
-![crawling_around](imgs/crawling_around.jpg)
-
-My path to Pixar, and technology in general, was circuitous. And on this journey I learned a valuable lesson: my past did not control my future.
+My path to Pixar, and technology in general, was circuitous.
 
 I wasn't that iconic child taking apart the family toaster, and wiring it up to the Internet. I didn't code, and I wasn't a math wiz. Between school government and the newspaper, I'm pretty sure that anyone who knew me back in high school would have pegged me as a future politician or journalist.
 
 ### UC Santa Cruz
 
-![ucsc](imgs/ucsc.png)
-
 In college, while attending UC Santa Cruz, my interests were centered almost exclusively around the humanities and liberal arts. Russian history, journalism, political science, education, economics ... I spent my college years tucked safely in the redwoods, devouring the classics, totally unaware that I would end up working as a software engineer one day. Wifi seemed as if it were cast from a magician's wand, my PC was a source of frustration more often than a source of productivity, and I'm pretty sure I had never seen the words "hello" and "world" written side by side.
 
 
 ### Peace Corps Ukraine
-
-![ukraine](imgs/ukraine.png)
 
 I graduated college eager to make an impact, in search of adventure, and wanting to see more of the world. The Peace Corps seemed like a great opportunity to check all three of those boxes, so I signed up, and promptly shipped off. They placed me as an English teacher in Eastern Ukraine, and I spent over two years in a small village on the Russian border. Being from Southern California, winter had been a totally foreign concept to me.
 
@@ -26,8 +20,6 @@ But the opportunity to learn Russian, work with a phenomenal group of kids at ou
 Technology, like a warm southern California summer, was still very far away.
 
 ### Law Firm
-
-![law_firm](imgs/law_firm.png)
 
 After serving abroad for two years, I came back home, and decided that it was time to apply for law school. My big brother had just become a lawyer, and my parents were very keen on the idea of having both their children in the profession.
 
@@ -46,8 +38,6 @@ And this is where my technical journey begins.
 I started writing these tiny little scripts to organize scanned files and move them between Excel and a database. I'd stay hours after work banging my head on CSV files and parsing date ranges and file naming conventions. Over the course of a few weeks, technology came alive for me. By force of sheer will, I'd decided to no longer view software as magic from the magician's wand, but rather a system of rules that was totally understandable with sufficient work.
 
 ### SF City College
-
-![hello_world](imgs/hello_world.png)
 
 Just as I was beginning to obsess over this whole software thing, I was accepted into law school, and was now forced with making the biggest decision of my life.
 
