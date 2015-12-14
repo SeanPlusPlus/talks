@@ -53,17 +53,17 @@ I became singularly obsessed with becoming a software engineer. Not too sure wha
 
 I spent the next three years, devouring CS classes at City College. Databases, Unix, C++, software engineering, literally anything technical I could get my hands on.
 
-My best friend and I even started a web development business on the side. We would design sites for several local small businesses, getting paid hourly, or, if it were a cafe, we'd get paid in food.
+My best friend and I, with a lot of help from a friend who was a professional web developer, even started a web development business on the side. We would design sites for several local small businesses, getting paid hourly, or, if it were a cafe, we'd get paid in food.
 
 ### Pixar Systems
 
 I was hired at Pixar in 2010, and the level of sheer joy I felt when getting the offer was unbelievable. Not only did I now have a chance to work at one of the most exciting companies in the Bay Area, but I somehow felt vindicated. Rolling the dice and not attending law school years before had felt like such a tremendous risk. But now, I'd made it. I was a Pixarian.
 
-The first team I worked on was the Unix desktop administration team. It was a crash course in systems administration that really challenged me.
+The first team I worked on was the Unix desktop administration team. It was a crash course in systems administration that really challenged me. Pixar runs on Linux machines - these massive desktop workstations with crazy amounts of cutting edge hardware - and keeping this system of computers up and running was a herculean task.
 
-Heartbeat.
+The first app I wrote at Pixar was called Heartbeat. Network problems would cause brutal fallout sometime with all of these massive Linux workstations. So we would have to print out lists of computers that had problems, and the corresponding office locations. It was gnarly. So I hacked together an app that took our office maps, and overlaid colors representing the states that the machines were in.
 
-Web dev team.
+That app got me on the web dev team, and after resolving 
 
 Translations.
 
