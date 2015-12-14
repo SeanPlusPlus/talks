@@ -1,5 +1,7 @@
 # My Technical Story
 
+Hello! My name is Sean Stephenson and I am a software engineer in the Systems department at Pixar Animation Studios. Thank you so much for inviting me to attend this really cool event - your projects are so incredibly exciting, I'm blow away.
+
 My path to Pixar, and technology in general, was circuitous.
 
 I wasn't that iconic child taking apart the family toaster, and wiring it up to the Internet. I didn't code, and I wasn't a math wiz. Between school government and the newspaper, I'm pretty sure that anyone who knew me back in high school would have pegged me as a future politician or journalist.
@@ -45,23 +47,19 @@ My friends and family all assumed that I was going to be a lawyer. The inevitabi
 
 So, in the Spring of 2007, I declined the law school acceptance letters, and enrolled in Intro to Computer Science at San Francisco City College. Everyone I knew was shocked. I think that my parents were even panicking a little bit.
 
-### Brown Bag Web Design
+My entire life trajectory seemed like it was going one way, and suddenly I'd made this dramatic life shift. But I couldn't help it, I was hooked. And getting my first opportunity to formally learn software development was one of the coolest experiences of my life.
 
-My first taste of an all night spent hacking.
+I became singularly obsessed with becoming a software engineer. Not too sure what the job even really meant, I knew that I wanted to write code for a living, and I was going to work like mad to get there.
 
-Eastwood Development, John Campbell's ...
+I spent the next three years, devouring CS classes at City College. Databases, Unix, C++, software engineering, literally anything technical I could get my hands on.
 
-I was interviewing like crazy, hungry to get a job at a tech company, and see if this really was the right choice for me.
-
+My best friend and I even started a web development business on the side. We would design sites for several local small businesses, getting paid hourly, or, if it were a cafe, we'd get paid in food.
 
 ### Pixar Systems
 
-Queue our video ...
+I was hired at Pixar in 2010, and the level of sheer joy I felt when getting the offer was unbelievable. Not only did I now have a chance to work at one of the most exciting companies in the Bay Area, but I somehow felt vindicated. Rolling the dice and not attending law school years before had felt like such a tremendous risk. But now, I'd made it. I was a Pixarian.
 
-
-### Current Tech Projects
-
-Unix desktop administration.
+The first team I worked on was the Unix desktop administration team. It was a crash course in systems administration that really challenged me. 
 
 Heartbeat.
 
