@@ -1,6 +1,6 @@
 # My Technical Story
 
-Hello! My name is Sean Stephenson and I am a software engineer in the Systems department at Pixar Animation Studios. Thank you so much for inviting me to attend this really cool event - your projects are so incredibly exciting, I'm blow away.
+Hello! My name is Sean Stephenson and I am a software engineer in the Systems department at Pixar Animation Studios. Thank you so much for inviting me to attend this really cool event.
 
 My path to Pixar, and technology in general, was circuitous.
 
@@ -59,7 +59,7 @@ My best friend and I even started a web development business on the side. We wou
 
 I was hired at Pixar in 2010, and the level of sheer joy I felt when getting the offer was unbelievable. Not only did I now have a chance to work at one of the most exciting companies in the Bay Area, but I somehow felt vindicated. Rolling the dice and not attending law school years before had felt like such a tremendous risk. But now, I'd made it. I was a Pixarian.
 
-The first team I worked on was the Unix desktop administration team. It was a crash course in systems administration that really challenged me. 
+The first team I worked on was the Unix desktop administration team. It was a crash course in systems administration that really challenged me.
 
 Heartbeat.
 
@@ -75,4 +75,4 @@ Constantly prototype.
 
 Read as much as you can.
 
-Integrity is the most trait in a software developer.
+Handling imposter syndrome.
